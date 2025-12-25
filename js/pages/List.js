@@ -102,6 +102,10 @@ export default {
                         Level must be beaten legitametly with no hacks (FPS bypass is allowed, up to 480 fps)
                     </p>
                     <p>
+                    
+                    Level MUST be less than 30 seconds long. No longer. If It is longer than 30 seconds it will not be accepted on the list.
+                    </p>
+                    <p>
                         Records acheived must be levels that are listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
